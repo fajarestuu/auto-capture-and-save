@@ -1,0 +1,8 @@
+img/*.png
+debug.py
+app.py
+client_secrets.json
+token.pickle
+config.ini
+testconfig.py
+setup.py
